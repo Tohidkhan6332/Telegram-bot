@@ -8,7 +8,7 @@
 - **Create your Heroku Deployment Link by replacing "mouricedevs" with your actual github then open it on a web browser where you're logged in to heroku then deploy.**
 
 ```
-https://dashboard.heroku.com/new?template=https://github.com/your_github_username/telegram-bot
+https://dashboard.heroku.com/new?template=https://github.com/your_github_username/Telegram-bot
 ```
 
 - **If you haven't forked the repo then it won't work for you**
