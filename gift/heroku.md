@@ -5,7 +5,7 @@
 
 ### Stepwise ###
 
-- **Create your Heroku Deployment Link by replacing "mouricedevs" with your actual github then open it on a web browser where you're logged in to heroku then deploy.**
+- **Create your Heroku Deployment Link by replacing "Tohidkhan6332" with your actual github then open it on a web browser where you're logged in to heroku then deploy.**
 
 ```
 https://dashboard.heroku.com/new?template=https://github.com/your_github_username/Telegram-bot
