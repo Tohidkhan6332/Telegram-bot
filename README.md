@@ -57,7 +57,7 @@ To interact with the bot, users can send commands and messages. The bot will res
 - I'll always be adding more commands, features and making general updates so always check✅ out and sync your forks to stay updated.
 
 ### INCASE OF ISSUES ###
- - [CONTACT OWNER](t.me/tohid_mewati)
+ - [CONTACT OWNER](https://t.me/tohid_mewati)
 
        ©𝟮𝟬𝟮𝟰-2025 𝗧𝗢𝗛𝗜𝗗 𝗞𝗛𝗔𝗡
 
