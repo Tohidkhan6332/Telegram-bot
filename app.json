@@ -1,0 +1,22 @@
+{
+    "name": "Telegram-bot",
+    "description": "Tohid-Ai, A simple Telegram user bot Created by Tohid Khan",
+    "logo": "https://i.imgur.com/WnKjrJt.jpeg",
+    "repository": "https://github.com/Tohidkhan6332/Telegram-bot",
+    "keywords": ["whatsappbot", "Tohid Khan", "TOHID-AI", "TOHID TECH MD", "TOHIDMdWhatsaooBot", "TOHIDMDWaBot","TOHID","TOHID TECH Md Whatsapp Bot","multi device"],
+    "success_url": "/", 
+    "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
+    "env": {      
+      "PORT": {
+        "description": "Port for web app.4000,5000,3000... any!",
+        "value": "3000",
+        "required": true 
+      },
+      "MESSAGE": {
+        "description": "bot connection conformation message",
+        "value": "✅ᴄᴏɴɴᴇᴄᴛᴇᴅ✅ [ 𝐘𝐎𝐔'𝐕𝐄 𝐂𝐇𝐎𝐒𝐄𝐍 𝐓𝐎𝐇𝐈𝐃-𝐀𝐈 ]",
+        "required": false 
+      }
+    }   
+
+}
