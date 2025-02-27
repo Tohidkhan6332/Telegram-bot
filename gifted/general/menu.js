@@ -93,7 +93,7 @@ giftedMess += `╰═════════════════⊷\n\n*${m
       { text: 'Help', callback_data: JSON.stringify({ feature: 'help' }) },
     ],
     [
-      { text: 'WaChannel', url: 'https://whatsapp.com/channel/0029VaGyP933bbVC7G0x0i2T' },
+      { text: 'WaChannel', url: 'https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l' },
     ],
   ];
 
